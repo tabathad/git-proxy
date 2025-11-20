@@ -17,11 +17,47 @@ module.exports = {
     posts: [
       {
         platform: 'linkedin',
-        url: 'https://www.linkedin.com/embed/feed/update/urn:li:share:7092203565380722688',
+        url: 'https://www.linkedin.com/embed/feed/update/urn:li:activity:7386982216444264448',
+      },
+      {
+        platform: 'linkedin',
+        url: 'https://www.linkedin.com/embed/feed/update/urn:li:activity:7367207134180106240',
+      },
+      {
+        platform: 'linkedin',
+        url: 'https://www.linkedin.com/embed/feed/update/urn:li:activity:7368312868221423618',
+      },
+      {
+        platform: 'linkedin',
+        url: 'https://www.linkedin.com/embed/feed/update/urn:li:activity:7363921020300210177',
+      },
+      {
+        platform: 'linkedin',
+        url: 'https://www.linkedin.com/embed/feed/update/urn:li:activity:7296172481868955648',
+      },
+      {
+        platform: 'linkedin',
+        url: 'https://www.linkedin.com/embed/feed/update/urn:li:activity:7269738545248927744',
+      },
+      {
+        platform: 'linkedin',
+        url: 'https://www.linkedin.com/embed/feed/update/urn:li:activity:7251398809258201088',
       },
       {
         platform: 'linkedin',
         url: 'https://www.linkedin.com/embed/feed/update/urn:li:activity:7211986423942385664',
+      },
+      {
+        platform: 'linkedin',
+        url: 'https://www.linkedin.com/embed/feed/update/urn:li:share:7201603784194629633',
+      },
+      {
+        platform: 'linkedin',
+        url: 'https://www.linkedin.com/embed/feed/update/urn:li:activity:7196479537872859137',
+      },
+      {
+        platform: 'linkedin',
+        url: 'https://www.linkedin.com/embed/feed/update/urn:li:share:7092203565380722688',
       },
       {
         platform: 'linkedin',
@@ -30,10 +66,6 @@ module.exports = {
       {
         platform: 'linkedin',
         url: 'https://www.linkedin.com/embed/feed/update/urn:li:activity:7175490880689057792',
-      },
-      {
-        platform: 'linkedin',
-        url: 'https://www.linkedin.com/embed/feed/update/urn:li:share:7201603784194629633',
       },
       {
         platform: 'linkedin',
@@ -62,10 +94,6 @@ module.exports = {
       {
         platform: 'linkedin',
         url: 'https://www.linkedin.com/embed/feed/update/urn:li:activity:7167196087143899136',
-      },
-      {
-        platform: 'linkedin',
-        url: 'https://www.linkedin.com/embed/feed/update/urn:li:activity:7196479537872859137',
       },
     ],
   },
